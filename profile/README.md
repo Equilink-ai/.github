@@ -2,7 +2,7 @@
 
 ![Organization Banner](/profile/Twitter_banner.png)
 
-> *Bridging traditional finance with decentralized innovation*
+
 
 [![GitHub Stars](https://img.shields.io/github/stars/Equilink?style=for-the-badge)](https://github.com/Equilink-ai)
 [![GitHub Followers](https://img.shields.io/github/followers/Equilink?style=for-the-badge)](https://github.com/Equilink-ai)
