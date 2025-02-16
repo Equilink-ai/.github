@@ -6,7 +6,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/Equilink?style=for-the-badge)](https://github.com/Equilink-ai)
 [![GitHub Followers](https://img.shields.io/github/followers/Equilink?style=for-the-badge)](https://github.com/Equilink-ai)
-[![Twitter Follow](https://img.shields.io/twitter/follow/equilink?style=for-the-badge)](https://twitter.com/equilink)
+[![Twitter Follow](https://img.shields.io/twitter/follow/equilink?style=for-the-badge)](https://twitter.com/equilink_ai)
 
 ---
 
