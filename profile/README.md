@@ -1,7 +1,7 @@
 # 🔗 Equilink
 ### *Revolutionizing Blockchain Social Finance*
 
-![Organization Banner](/api/placeholder/800/200)
+![Organization Banner](/profile/Twitter_banner.png)
 
 > *Bridging traditional finance with decentralized innovation*
 
