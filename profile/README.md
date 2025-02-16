@@ -51,15 +51,3 @@ Fourth Quarter: Innovation and ecosystem strengthening
 ## 📜 License
 
 MIT License - see [LICENSE](LICENSE) for details
-
-<div align="center">
-
-### *"Connecting Finance with the Future"*
-
-</div>
-
-```ascii
-           🔗
-Building the Future of Finance
-           💫
-```
