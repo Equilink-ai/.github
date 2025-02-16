@@ -29,8 +29,11 @@ A Python-based system for managing AI agents, their interactions, and integratio
 ## 🗺️ Roadmap 2025
 
 First Quarter: Essential features launch and partnerships
+
 Second Quarter: Platform expansion and user feedback integration
+
 Third Quarter: Performance optimization and analytics rollout
+
 Fourth Quarter: Innovation and ecosystem strengthening
 
 ## 📈 Token Distribution
